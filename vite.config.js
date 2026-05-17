@@ -8,6 +8,11 @@ export default defineConfig(({mode}) => {
   const env = loadEnv(mode, '.', '');
   return {
     plugins: [react(), tailwindcss()],
+    esbuild: {
+      loader: 'jsx',
+      include: /src\/.*\.[tj]sx?$/,
+      exclude: [],
+    },
     define: {
       'process.env.GEMINI_API_KEY': JSON.stringify(env.GEMINI_API_KEY),
     },
