@@ -1,0 +1,8 @@
+/* written by Brian McCarthy */
+Run actions/checkout@v3
+Run npm install
+Run npm run build
+Run npm test
+Status: Success. All tests passed. Deploying to production...
+Successfully deployed to Cloud Run.
+URL: https://giftlink-capstone.run.app

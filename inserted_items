@@ -1,0 +1,19 @@
+/* written by Brian McCarthy */
+[
+  { "_id": "64b1f2e1a5b6c7d8e9f0a1b2", "name": "Cozy Armchair", "category": "Living", "condition": "Like New", "age_years": 2, "description": "Very comfortable armchair, perfect for reading." },
+  { "_id": "64b1f2e1a5b6c7d8e9f0a1b3", "name": "Minimalist Desk", "category": "Office", "condition": "New", "age_years": 1, "description": "Clean design desk, great for small spaces." },
+  { "_id": "64b1f2e1a5b6c7d8e9f0a1b4", "name": "Vintage Lamp", "category": "Bedroom", "condition": "Older", "age_years": 15, "description": "Stylish vintage lamp with warm light." },
+  { "_id": "64b1f2e1a5b6c7d8e9f0a1b5", "name": "Kitchen Blender", "category": "Kitchen", "condition": "New", "age_years": 0, "description": "High-speed blender, barely used." },
+  { "_id": "64b1f2e1a5b6c7d8e9f0a1b6", "name": "Bathroom Shelf", "category": "Bathroom", "condition": "Like New", "age_years": 3, "description": "Waterproof shelf for bathroom essentials." },
+  { "_id": "64b1f2e1a5b6c7d8e9f0a1b7", "name": "Wooden Coffee Table", "category": "Living", "condition": "Older", "age_years": 8, "description": "Solid wood coffee table with some character." },
+  { "_id": "64b1f2e1a5b6c7d8e9f0a1b8", "name": "Ergonomic Chair", "category": "Office", "condition": "New", "age_years": 1, "description": "Supports good posture for long work hours." },
+  { "_id": "64b1f2e1a5b6c7d8e9f0a1b9", "name": "Queen Size Bed Frame", "category": "Bedroom", "condition": "Like New", "age_years": 4, "description": "Sturdy metal bed frame, easy to assemble." },
+  { "_id": "64b1f2e1a5b6c7d8e9f0a1c0", "name": "ceramic Plates Set", "category": "Kitchen", "condition": "New", "age_years": 0, "description": "Complete set of 4 ceramic plates." },
+  { "_id": "64b1f2e1a5b6c7d8e9f0a1c1", "name": "Bath Mat", "category": "Bathroom", "condition": "New", "age_years": 0, "description": "Soft microfiber bath mat, grey color." },
+  { "_id": "64b1f2e1a5b6c7d8e9f0a1c2", "name": "Bookshelf", "category": "Office", "condition": "Older", "age_years": 6, "description": "Large bookshelf with 5 tiers." },
+  { "_id": "64b1f2e1a5b6c7d8e9f0a1c3", "name": "Nightstand", "category": "Bedroom", "condition": "Like New", "age_years": 2, "description": "Compact nightstand with one drawer." },
+  { "_id": "64b1f2e1a5b6c7d8e9f0a1c4", "name": "Electric Toaster", "category": "Kitchen", "condition": "New", "age_years": 1, "description": "2-slice toaster with multiple browning levels." },
+  { "_id": "64b1f2e1a5b6c7d8e9f0a1c5", "name": "Shower Curtain", "category": "Bathroom", "condition": "New", "age_years": 0, "description": "Geometric pattern shower curtain." },
+  { "_id": "64b1f2e1a5b6c7d8e9f0a1c6", "name": "Floor Rug", "category": "Living", "condition": "Like New", "age_years": 2, "description": "Large decorative rug for the living room." },
+  { "_id": "64b1f2e1a5b6c7d8e9f0a1c7", "name": "Desk Lamp", "category": "Office", "condition": "New", "age_years": 0, "description": "LED desk lamp with adjustable brightness." }
+]
