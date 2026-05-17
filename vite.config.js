@@ -7,7 +7,7 @@ import {defineConfig, loadEnv} from 'vite';
 export default defineConfig(({mode}) => {
   const env = loadEnv(mode, '.', '');
   return {
-    base: '/GiftLink-Capstone-Full-Stack-MongoDB-JS-React-REST-API/',
+    base: './',
     plugins: [react(), tailwindcss()],
     esbuild: {
       loader: 'jsx',
