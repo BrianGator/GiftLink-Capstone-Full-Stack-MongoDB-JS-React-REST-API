@@ -6,6 +6,17 @@ Written by Brian McCarthy
 **I want to** see a list of all available gifts,
 **so that** I can browse items I might need.
 
+### Details and Assumptions
+* The user does not need to be logged in to view the listings.
+* Listings should be displayed in a responsive grid format.
+* Only active (available) gifts should be shown.
+
+### Acceptance Criteria
+**Given** a visitor navigates to the landing page
+**When** they scroll down to the "Available Gifts" section
+**Then** they should see exactly 16 gift items displayed
+**And** each item should show a name, category, and condition.
+
 ## User Story 2: Search for Gifts
 **As a** user,
 **I want to** search gifts by name and category,

@@ -5,7 +5,7 @@ import dotenv from 'dotenv';
 dotenv.config();
 
 const url = process.env.MONGO_URL || 'mongodb://localhost:27017';
-const dbName = 'giftlink';
+const dbName = 'giftdb';
 
 let dbInstance = null;
 let client = null;
