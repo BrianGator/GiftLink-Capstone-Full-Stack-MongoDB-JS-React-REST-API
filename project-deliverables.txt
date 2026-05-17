@@ -13,7 +13,7 @@ Note: Ensure you upload a real screenshot showing the repository name "fullstack
 
 ## Task 3: MongoDB Data Import (inserted_items)
 Command and Terminal Output:
-Command: npm run import
+Command: npm start
 Output:
 Connected successfully to MongoDB
 Importing 16 documents into giftdb...
@@ -30,6 +30,12 @@ URL: https://github.com/BrianGator/GiftLink-Capstone-Full-Stack-MongoDB-JS-React
 
 ## Task 5: Gift Routes (giftRoutes.js)
 URL: https://github.com/BrianGator/GiftLink-Capstone-Full-Stack-MongoDB-JS-React-REST-API/blob/main/server/routes/giftRoutes.js
+
+---
+
+## Task 7: Search Route (app.js)
+Contains a route that serves /api/search.
+URL: https://github.com/BrianGator/GiftLink-Capstone-Full-Stack-MongoDB-JS-React-REST-API/blob/main/app.js
 
 ---
 

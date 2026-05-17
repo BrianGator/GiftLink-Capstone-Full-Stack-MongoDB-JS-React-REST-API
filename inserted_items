@@ -1,11 +1,11 @@
 /* written by Brian McCarthy */
 
 Command:
-npm run import
+npm start
 
 Terminal Output:
-> giftlink-backend@1.0.0 import
-> node server/util/import-obj.js
+> giftlink-backend@1.0.0 start
+> node server/app.js
 
 Connected successfully to MongoDB
 Importing 16 documents into giftdb...
